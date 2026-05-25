@@ -1,5 +1,17 @@
-# PowerBi_Sales_Dasboard
-This project is an interactive Power BI dashboard that analyzes electronic product sales data from 2020 to 2022. It provides key business insights such as sales trends, cost analysis, product performance, and regional distribution.
+PowerBi_Sales_Dasboard
+Electronic Sales Dashboard - Power BI Project
 
-The dashboard helps in understanding overall business performance by visualizing KPIs like total sales, total cost, quantity sold, and transaction count.
+Overview
+This Power BI project is designed to analyze electronic product sales data and provide meaningful business insights. The dashboard helps in tracking sales performance, identifying top-selling products, understanding customer trends, and improving business decision-making.
 
+Tools Used
+- Power BI Desktop
+- Microsoft Excel 
+
+Features
+- Sales performance analysis of electronic products
+- Interactive filters and slicers for dynamic insights
+- KPI cards for total sales, profit, and quantity sold
+- Product-wise and category-wise analysis
+- Monthly/Yearly sales trend visualization
+- Customer and region-based insights
